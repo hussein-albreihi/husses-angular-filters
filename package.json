@@ -1,0 +1,19 @@
+{
+  "name": "husses-angular-filters",
+  "version": "1.0.0",
+  "description": "Husse's angular filters",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hussein-albreihi/husses-angular-filters.git"
+  },
+  "author": "Hussein Al-Breihi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hussein-albreihi/husses-angular-filters/issues"
+  },
+  "homepage": "https://github.com/hussein-albreihi/husses-angular-filters"
+}

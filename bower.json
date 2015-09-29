@@ -1,0 +1,25 @@
+{
+  "name": "husses-angular-filters",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hussein-albreihi/husses-angular-filters",
+  "authors": [
+    "Hussein <hussein.albreihi@hotmail.com>"
+  ],
+  "description": "Husse's angular filters",
+  "main": "app.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "Dependencies": {
+    "angular": "~1.4.6"
+  }
+}
